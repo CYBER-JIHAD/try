@@ -1,6 +1,6 @@
 import os, sys
 try:
-    __import__("ox").jihad()
+    __import__("cy").Main()
 except Exception as e:
     exit(str(e))
 
